@@ -1,7 +1,2 @@
-GitHubへ以下の2ファイルを上書きアップロードしてください。
-
-・index.html
-・renvis-logo-silver.png
-
-今回は、各ボタンに統一した白線アイコンを追加し、
-ロゴを白に近いシルバーグラデーションへ変更しています。
+GitHubへ index.html を上書きしてください。
+renvis-logo-silver.png は今までのものをそのまま使用しています。
