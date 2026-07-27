@@ -1,0 +1,10 @@
+RENVIS 最終調整版
+
+GitHubで Add file → Upload files を開き、
+次の2ファイルをアップロードしてください。
+
+・index.html
+・background.jpg
+
+既存の renvis-logo.jpg はそのまま残します。
+最後に Commit changes を押してください。
