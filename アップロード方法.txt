@@ -1,0 +1,10 @@
+RENVIS GitHub Pages 完成版
+
+GitHubの renvis8311 リポジトリで
+Add file → Upload files を開き、次の2ファイルをアップロードしてください。
+
+・index.html
+・background.jpg
+
+既存の renvis-logo.jpg は削除せず、そのまま残してください。
+最後に Commit changes を押します。
