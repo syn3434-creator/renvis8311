@@ -1,10 +1,10 @@
-RENVIS 最終調整版
+RENVIS 横長ロゴ完成版
 
-GitHubで Add file → Upload files を開き、
-次の2ファイルをアップロードしてください。
+GitHubで Add file → Upload files を開き、次の3ファイルをアップロードしてください。
 
 ・index.html
 ・background.jpg
+・renvis-logo.jpg
 
-既存の renvis-logo.jpg はそのまま残します。
+今回はロゴも新しい横長版に置き換わります。
 最後に Commit changes を押してください。
