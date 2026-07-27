@@ -1,11 +1,22 @@
-RENVIS リンク付き完成版
+RENVIS GitHub Pages 完成版
 
-GitHubで Add file → Upload files を開き、
-次の3ファイルをアップロードしてください。
-
+【アップロードするファイル】
 ・index.html
-・background.jpg
-・renvis-logo.jpg
+・renvis-logo.png
 
-既存ファイルは同じ名前なので、そのまま上書きされます。
-最後に Commit changes を押してください。
+【手順】
+1. GitHubで「renvis8311」リポジトリを開く
+2. Add file → Upload files
+3. index.html と renvis-logo.png の2つをアップロード
+4. Commit changes を押す
+5. 1～3分後に公開ページを Ctrl + F5 で更新
+
+公開ページ
+https://syn3434-creator.github.io/renvis8311/
+
+【今回の修正】
+・元の正式ロゴの白背景だけを透明化
+・Instagramを https://www.instagram.com/renvisrenvis/ に修正
+・レンタルヤード表記を松延807-3に統一
+・地図リンクは「株式会社レンビス レンタルヤード 松延807-3」で開く設定
+・背景画像なしでも表示できるモルタル調デザイン
