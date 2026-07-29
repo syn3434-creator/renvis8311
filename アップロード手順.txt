@@ -1,5 +1,21 @@
-GitHubの index.html を、このフォルダの index.html で上書きしてください。
-変更内容：
-・『アタッチメントのプロフェッショナル』を小さく調整
-・ボタンを以前の細い高さに戻す
-・金属感、ホバー、表示アニメーションは維持
+RENVIS 新規設計版 アップロード手順
+
+1. GitHubの index.html を、このフォルダの index.html で上書きしてください。
+2. renvis-logo-silver.png は既存ファイルと同名です。現在のロゴをそのまま使う場合は上書き不要です。
+3. CNAME は絶対に削除しないでください。独自ドメイン link.renvis.co.jp に必要です。
+4. 反映後、https://link.renvis.co.jp を確認してください。
+
+確認後に削除してよい可能性があるもの
+・README.txt
+・アップロード手順.txt
+・アップロード方法.txt
+・renvis-logo.jpg
+・renvis-logo.png
+・background.jpg（この新規版では使用していません）
+
+残すもの
+・CNAME
+・index.html
+・renvis-logo-silver.png
+
+※最初から一度に削除せず、新しい表示を確認してから整理するのがおすすめです。
